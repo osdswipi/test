@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-2000s",
+  "version": "1.0.0",
+  "description": "Портфолио в стиле 2000-х с формой обратной связи",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
